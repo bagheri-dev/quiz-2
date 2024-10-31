@@ -1,0 +1,13 @@
+// UI
+از توی فیگما برداشته شده است و بصورت خیلی ساده است و ریسپانسیو نمیباشد
+عکس ها و اسم فیلم ها از داخل فیگما است
+
+// sort
+برای بخش سورت از اینترنت کمک گرفتم چون این رو حتی توی پروژه قبلی که شبیه همین بود تقریبا هم نتونستم پیاده سازی کنم و الان یاد گرفتم.
+
+// Project
+پکیج های پروژه با yarn نصب شده اند
+Project by vite , react , typescript , talwindcss , react-icon , use form , zod , redux
+
+// github
+https://github.com/bagheri-dev/quiz-2.git
